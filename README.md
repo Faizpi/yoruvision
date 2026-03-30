@@ -1,8 +1,14 @@
-# Yoru Vision
+<div align="center">
+  <img src="./public/logo.png" alt="Yoru Vision Logo" width="180" height="180" />
 
-### Website Implementasi Mata Kuliah Pengolahan Citra
+  <h1>Yoru Vision</h1>
 
-Yoru Vision adalah proyek website interaktif yang dibangun untuk mengimplementasikan konsep-konsep inti pada mata kuliah Pengolahan Citra Digital. Seluruh proses dilakukan langsung di browser, sehingga mahasiswa dapat mencoba algoritma secara visual tanpa perlu setup backend.
+  <p><strong>Laboratorium Pengolahan Citra Digital</strong> dengan 12 modul interaktif.</p>
+
+  <p>Laboratorium pengolahan citra digital yang lengkap: steganografi, AI pertanian cerdas, OCR pengenalan teks, enhancement advisor, forensik gambar, analisis histogram, konversi ruang warna, deteksi tepi, filter konvolusi, morfologi, pemrosesan frekuensi FFT, dan transformasi geometri. Seluruh proses berjalan native di browser tanpa upload ke backend.</p>
+
+  <p>Yoru Vision menghadirkan alur kerja pengolahan citra yang ilmiah sekaligus cepat di browser. Tersedia 12 modul terintegrasi untuk analisis, enhancement, inspeksi forensik, dan deteksi berbasis AI dalam antarmuka yang konsisten.</p>
+</div>
 
 ---
 

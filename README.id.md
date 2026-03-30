@@ -1,13 +1,15 @@
 > **[English version](README.md)** | Versi Bahasa Indonesia
 
 <div align="center">
-  <img src="public/logo.png" alt="Yoru Vision Logo" width="180" height="180" />
+  <img src="./public/logo.png" alt="Yoru Vision Logo" width="180" height="180" />
 
   <h1>Yoru Vision</h1>
 
-  <p><strong>Hub Pemrosesan Citra Digital Modular</strong> — 100% sisi klien, tanpa backend.</p>
+  <p><strong>Laboratorium Pengolahan Citra Digital</strong> dengan 12 modul interaktif.</p>
 
-  <p>Aplikasi web bertema liquid glass untuk mempelajari dan bereksperimen dengan teknik pemrosesan citra digital.<br/>Dibangun dengan Next.js 16, React 19, TypeScript 5, dan Tailwind CSS v4.</p>
+  <p>Laboratorium pengolahan citra digital yang lengkap: steganografi, AI pertanian cerdas, OCR pengenalan teks, enhancement advisor, forensik gambar, analisis histogram, konversi ruang warna, deteksi tepi, filter konvolusi, morfologi, pemrosesan frekuensi FFT, dan transformasi geometri. Seluruh proses berjalan native di browser tanpa upload ke backend.</p>
+
+  <p>Yoru Vision menghadirkan alur kerja pengolahan citra yang ilmiah sekaligus cepat di browser. Tersedia 12 modul terintegrasi untuk analisis, enhancement, inspeksi forensik, dan deteksi berbasis AI dalam antarmuka yang konsisten.</p>
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://typescriptlang.org/)
